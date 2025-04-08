@@ -20,7 +20,11 @@ This is a Flask-based web application that scrapes the latest headlines from var
 - **Web Scraping**: BeautifulSoup (Python)
 - **HTTP Requests**: Requests (Python)
 
-Usage
+## Installation
+
+pip install flask requests beautifulsoup4
+
+## Usage
 Run the Flask application:
 
 **python app.py**
